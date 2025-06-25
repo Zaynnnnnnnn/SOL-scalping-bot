@@ -48,7 +48,7 @@ Your win rate: winners vs losers number of trades
 Example Output
 After running, you should get something like this:
 
-???? SOL Strategy Performance:
+SOL Strategy Performance:
 Final Value: $10,742.00
 Profit: $742.00
 Return: 7.42%
@@ -70,7 +70,7 @@ How to use and backtest technical indicators
 How to simulate real trading behavior without risking real money
 How even simple strategies can produce structured, testable output
 
-????Next Steps You Could Try
+Next Steps You Could Try
 If you would like to add or expand this bot:
 Add more indicators like MACD or Bollinger Bands
 Try out different stop-loss / take-profit percentages
